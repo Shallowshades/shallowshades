@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![](https://raw.githubusercontent.com/Shallowshades/Shallowshades/main/assets/github-contribution-grid-snake.svg)
+
 <!--
 **Shallowshades/Shallowshades** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
