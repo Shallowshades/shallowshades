@@ -1,4 +1,7 @@
+
+<!--
 ### Hi there 👋
+-->
 
 ![](https://raw.githubusercontent.com/Shallowshades/Shallowshades/main/assets/github-contribution-grid-snake.svg)
 
